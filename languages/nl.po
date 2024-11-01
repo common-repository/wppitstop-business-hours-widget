@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-11-12 11:42+0100\n"
+"PO-Revision-Date: 2018-11-12 11:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: WPPitstop-TA-widget-plugin.php:22
+msgid "Adds a widget that displays a text between certain times."
+msgstr "Hiermee voegt u een widget toe waarin een tekst tussen bepaalde tijden wordt weergegeven."
+
+#: WPPitstop-TA-widget-plugin.php:77
+msgid "Title:"
+msgstr "Titel:"
+
+#: WPPitstop-TA-widget-plugin.php:79
+msgid "Timezone:"
+msgstr "Tijdzone:"
+
+#: WPPitstop-TA-widget-plugin.php:91
+msgid "Begin display on:"
+msgstr "Begin weer te geven op:"
+
+#: WPPitstop-TA-widget-plugin.php:93
+msgid "End display on:"
+msgstr "Eindig weergave op:"
+
+#: WPPitstop-TA-widget-plugin.php:95
+msgid "HTML or plain text to show when enabled:"
+msgstr "HTML of platte tekst om te laten zien wanneer ingeschakeld:"
+
+#: WPPitstop-TA-widget-plugin.php:97
+msgid "HTML or plain text to show when disabled:"
+msgstr "HTML of platte tekst om te laten zien wanneer uitgeschakeld:"
